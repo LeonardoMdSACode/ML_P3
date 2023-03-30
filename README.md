@@ -8,7 +8,7 @@
 
 4 - Splitting the dataset (scikit-learn)
           Training model used was Logistic Regression, the evaluation used the accuracy score.
-          
+
 5 - Simple predictive test
 
 Binary classfication with logistic regression, a very effective tool.
